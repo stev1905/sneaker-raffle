@@ -19,11 +19,11 @@ class App extends Component {
       { option: 'Neilson'},
       { option: 'Jen'},
       { option: 'Laura'},
-      { option: 'Alek'},
       { option: 'Vicky'},
       { option: 'Jerrycka'},
       { option: 'Jen'},
-      { option: 'JR'}
+      { option: 'Junior'},
+      { option: 'Caco'}
     ]
     return (
       <div>
